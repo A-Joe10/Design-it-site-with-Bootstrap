@@ -45,3 +45,8 @@ nav{
         }
     }
 }
+.carousel-caption{
+    text-decoration: none;
+    width: fit-content;
+    margin: auto;
+}
