@@ -8,6 +8,7 @@
     --xl: 1200px;
     --xxl: 1400px;
 }
+
 nav{
     font-style: normal;
     .navbar-brand{
@@ -25,7 +26,10 @@ nav{
         }
     }
 }
-
+.hero{
+    background-image: url(./images/white\ background.jpg);
+    background-attachment: fixed;
+}
 .features{
         .feature-icon-small{
             width: 4rem;
